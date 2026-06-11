@@ -115,12 +115,3 @@ MERGE (a)-[r:EDGE {edge_type: row.edge_type, case_id: row.case_id}]->(b);
 > 실증적 인과 주장의 근거로 사용할 수 없다.
 
 ---
-
-## GitHub 제출
-
-```bash
-bash publish.sh "feat: final submission"
-```
-
-`publish.sh`는 `git add -A → commit → push` 래퍼이며 GitHub API 클라이언트가 아니다.
-시크릿 키는 `.env`(`.gitignore` 등록)에 보관하고 코드에 하드코딩하지 않는다.
