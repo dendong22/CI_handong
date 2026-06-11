@@ -1,0 +1,16 @@
+# generated artifacts (re-created by run_all.py)
+data/dgp/
+outputs/tables/
+outputs/figures/
+# keep graph exports and DAG figures committed
+!outputs/graph/
+!outputs/figures/F1_dag.png
+!outputs/figures/F2_unrolled.png
+!outputs/figures/F3_pmi.png
+!outputs/figures/F4_cosine.png
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.egg-info/
+.pytest_cache/

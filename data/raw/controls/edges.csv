@@ -1,0 +1,37 @@
+src,dst,edge_type,case_id,attrs_json
+controls_W_t0,controls_N006_t1,PRECEDES,controls,{}
+controls_N006_t1,controls_N012_t2,PRECEDES,controls,{}
+controls_N012_t2,controls_N018_t3,PRECEDES,controls,{}
+controls_N018_t3,controls_N024_t4,PRECEDES,controls,{}
+controls_N024_t4,controls_Y_t5,PRECEDES,controls,{}
+controls_W_t0,controls_N012_t2,CAUSE,controls,"{""chain_type"": ""backbone""}"
+controls_N012_t2,controls_N024_t4,CAUSE,controls,"{""chain_type"": ""backbone""}"
+controls_N024_t4,controls_Y_t5,CAUSE,controls,"{""chain_type"": ""backbone""}"
+controls_A0000,controls_N018_t3,SUPPORTED_BY,controls,{}
+controls_A0001,controls_N018_t3,SUPPORTED_BY,controls,{}
+controls_A0002,controls_N006_t1,SUPPORTED_BY,controls,{}
+controls_A0003,controls_W_t0,SUPPORTED_BY,controls,{}
+controls_A0004,controls_N024_t4,SUPPORTED_BY,controls,{}
+controls_A0005,controls_Y_t5,SUPPORTED_BY,controls,{}
+controls_A0006,controls_W_t0,SUPPORTED_BY,controls,{}
+controls_A0007,controls_W_t0,SUPPORTED_BY,controls,{}
+controls_A0008,controls_N006_t1,SUPPORTED_BY,controls,{}
+controls_A0009,controls_N006_t1,SUPPORTED_BY,controls,{}
+controls_A0010,controls_Y_t5,SUPPORTED_BY,controls,{}
+controls_A0011,controls_N006_t1,SUPPORTED_BY,controls,{}
+controls_A0012,controls_N012_t2,SUPPORTED_BY,controls,{}
+controls_A0013,controls_N024_t4,SUPPORTED_BY,controls,{}
+controls_A0014,controls_N024_t4,SUPPORTED_BY,controls,{}
+controls_A0015,controls_N012_t2,SUPPORTED_BY,controls,{}
+controls_A0016,controls_N018_t3,SUPPORTED_BY,controls,{}
+controls_A0017,controls_Y_t5,SUPPORTED_BY,controls,{}
+controls_FORCED000,controls_N012_t2,SUPPORTED_BY,controls,{}
+controls_FORCED001,controls_N012_t2,SUPPORTED_BY,controls,{}
+controls_FORCED002,controls_N012_t2,SUPPORTED_BY,controls,{}
+controls_FORCED003,controls_N006_t1,SUPPORTED_BY,controls,{}
+controls_FORCED004,controls_N006_t1,SUPPORTED_BY,controls,{}
+controls_FORCED005,controls_W_t0,SUPPORTED_BY,controls,{}
+controls_FORCED006,controls_W_t0,SUPPORTED_BY,controls,{}
+controls_CHAIN00,controls_W_t0,SUPPORTED_BY,controls,{}
+controls_CHAIN01,controls_N012_t2,SUPPORTED_BY,controls,{}
+controls_CHAIN02,controls_N024_t4,SUPPORTED_BY,controls,{}

@@ -1,0 +1,8 @@
+node_id,node_type,label,time_layer,case_id,attrs_json
+case_c_sparta_W_t0,Event,헬로트 노동 전유,t0,case_c_sparta,"{""y_value"": 1}"
+case_c_sparta_N001_t0,Concept,담론분열심화,t0,case_c_sparta,"{""y_value"": 1}"
+case_c_sparta_N002_t0,Organization,감독기관약화,t0,case_c_sparta,"{""y_value"": 1}"
+case_c_sparta_N003_t2,Concept,레버리지확대,t2,case_c_sparta,"{""y_value"": 1}"
+case_c_sparta_Y_t5,Event,레욱트라 전투 패배,t5,case_c_sparta,"{""y_value"": 1}"
+case_c_sparta_N005_t5,Organization,정보비대칭증가,t5,case_c_sparta,"{""y_value"": 1}"
+case_c_sparta_N006_t5,Event,정책대응지연,t5,case_c_sparta,"{""y_value"": 1}"

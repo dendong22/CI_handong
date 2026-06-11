@@ -1,0 +1,19 @@
+source_id,title,time_layer,case_id,doc_type
+case_b_dotcom_SRC000,[더미] 닷컴 버블 붕괴 2001 case_b_dotcom_SRC000,t2,case_b_dotcom,news
+case_b_dotcom_SRC001,[더미] 닷컴 버블 붕괴 2001 case_b_dotcom_SRC001,t5,case_b_dotcom,speech
+case_b_dotcom_SRC002,[더미] 닷컴 버블 붕괴 2001 case_b_dotcom_SRC002,t4,case_b_dotcom,report
+case_b_dotcom_SRC003,[더미] 닷컴 버블 붕괴 2001 case_b_dotcom_SRC003,t4,case_b_dotcom,news
+case_b_dotcom_SRC004,[더미] 닷컴 버블 붕괴 2001 case_b_dotcom_SRC004,t4,case_b_dotcom,report
+case_b_dotcom_SRC005,[더미] 닷컴 버블 붕괴 2001 case_b_dotcom_SRC005,t5,case_b_dotcom,speech
+case_b_dotcom_SRC006,[더미] 닷컴 버블 붕괴 2001 case_b_dotcom_SRC006,t0,case_b_dotcom,news
+case_b_dotcom_SRC007,[더미] 닷컴 버블 붕괴 2001 case_b_dotcom_SRC007,t0,case_b_dotcom,report
+case_b_dotcom_SRC_FORCED00,[더미] 닷컴 버블 붕괴 2001 case_b_dotcom_SRC_FORCED00,t4,case_b_dotcom,news
+case_b_dotcom_SRC_FORCED01,[더미] 닷컴 버블 붕괴 2001 case_b_dotcom_SRC_FORCED01,t1,case_b_dotcom,news
+case_b_dotcom_SRC_FORCED02,[더미] 닷컴 버블 붕괴 2001 case_b_dotcom_SRC_FORCED02,t5,case_b_dotcom,speech
+case_b_dotcom_SRC_FORCED03,[더미] 닷컴 버블 붕괴 2001 case_b_dotcom_SRC_FORCED03,t4,case_b_dotcom,speech
+case_b_dotcom_SRC_FORCED04,[더미] 닷컴 버블 붕괴 2001 case_b_dotcom_SRC_FORCED04,t2,case_b_dotcom,report
+case_b_dotcom_SRC_FORCED05,[더미] 닷컴 버블 붕괴 2001 case_b_dotcom_SRC_FORCED05,t1,case_b_dotcom,news
+case_b_dotcom_SRC_FORCED06,[더미] 닷컴 버블 붕괴 2001 case_b_dotcom_SRC_FORCED06,t0,case_b_dotcom,report
+case_b_dotcom_SRC_FORCED07,[더미] 닷컴 버블 붕괴 2001 case_b_dotcom_SRC_FORCED07,t5,case_b_dotcom,speech
+case_b_dotcom_SRC_FORCED08,[더미] 닷컴 버블 붕괴 2001 case_b_dotcom_SRC_FORCED08,t3,case_b_dotcom,speech
+case_b_dotcom_SRC_CHAIN,[더미] 닷컴 버블 붕괴 2001 case_b_dotcom_SRC_CHAIN,t0,case_b_dotcom,news

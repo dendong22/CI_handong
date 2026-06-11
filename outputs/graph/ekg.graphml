@@ -1,0 +1,1941 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d7" for="edge" attr.name="attrs_json" attr.type="string" />
+  <key id="d6" for="edge" attr.name="case_id" attr.type="string" />
+  <key id="d5" for="edge" attr.name="edge_type" attr.type="string" />
+  <key id="d4" for="node" attr.name="attrs_json" attr.type="string" />
+  <key id="d3" for="node" attr.name="case_id" attr.type="string" />
+  <key id="d2" for="node" attr.name="time_layer" attr.type="string" />
+  <key id="d1" for="node" attr.name="label" attr.type="string" />
+  <key id="d0" for="node" attr.name="node_type" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="case_a_korea1997_W_t0">
+      <data key="d0">Event</data>
+      <data key="d1">외자 유입 급증(chaebol 확장)</data>
+      <data key="d2">t0</data>
+      <data key="d3">case_a_korea1997</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_a_korea1997_N001_t0">
+      <data key="d0">Concept</data>
+      <data key="d1">담론분열심화</data>
+      <data key="d2">t0</data>
+      <data key="d3">case_a_korea1997</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_a_korea1997_N002_t0">
+      <data key="d0">Organization</data>
+      <data key="d1">감독기관약화</data>
+      <data key="d2">t0</data>
+      <data key="d3">case_a_korea1997</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_a_korea1997_N003_t0">
+      <data key="d0">Event</data>
+      <data key="d1">레버리지확대</data>
+      <data key="d2">t0</data>
+      <data key="d3">case_a_korea1997</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_a_korea1997_N004_t0">
+      <data key="d0">Concept</data>
+      <data key="d1">엘리트파벌형성</data>
+      <data key="d2">t0</data>
+      <data key="d3">case_a_korea1997</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_a_korea1997_N005_t0">
+      <data key="d0">Concept</data>
+      <data key="d1">정보비대칭증가</data>
+      <data key="d2">t0</data>
+      <data key="d3">case_a_korea1997</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_a_korea1997_N006_t0">
+      <data key="d0">Concept</data>
+      <data key="d1">정책대응지연</data>
+      <data key="d2">t0</data>
+      <data key="d3">case_a_korea1997</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_a_korea1997_N007_t0">
+      <data key="d0">Concept</data>
+      <data key="d1">외부압력</data>
+      <data key="d2">t0</data>
+      <data key="d3">case_a_korea1997</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_a_korea1997_N008_t0">
+      <data key="d0">Organization</data>
+      <data key="d1">신호무시</data>
+      <data key="d2">t0</data>
+      <data key="d3">case_a_korea1997</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_a_korea1997_N009_t1">
+      <data key="d0">Event</data>
+      <data key="d1">제도이완</data>
+      <data key="d2">t1</data>
+      <data key="d3">case_a_korea1997</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_a_korea1997_N010_t1">
+      <data key="d0">Concept</data>
+      <data key="d1">과잉투자</data>
+      <data key="d2">t1</data>
+      <data key="d3">case_a_korea1997</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_a_korea1997_N011_t1">
+      <data key="d0">Concept</data>
+      <data key="d1">거버넌스공백</data>
+      <data key="d2">t1</data>
+      <data key="d3">case_a_korea1997</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_a_korea1997_N012_t1">
+      <data key="d0">Organization</data>
+      <data key="d1">엔트로피지표상승</data>
+      <data key="d2">t1</data>
+      <data key="d3">case_a_korea1997</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_a_korea1997_N013_t1">
+      <data key="d0">Event</data>
+      <data key="d1">담론분열심화</data>
+      <data key="d2">t1</data>
+      <data key="d3">case_a_korea1997</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_a_korea1997_N014_t1">
+      <data key="d0">Organization</data>
+      <data key="d1">감독기관약화</data>
+      <data key="d2">t1</data>
+      <data key="d3">case_a_korea1997</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_a_korea1997_N015_t1">
+      <data key="d0">Event</data>
+      <data key="d1">레버리지확대</data>
+      <data key="d2">t1</data>
+      <data key="d3">case_a_korea1997</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_a_korea1997_N016_t1">
+      <data key="d0">Concept</data>
+      <data key="d1">엘리트파벌형성</data>
+      <data key="d2">t1</data>
+      <data key="d3">case_a_korea1997</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_a_korea1997_N017_t1">
+      <data key="d0">Event</data>
+      <data key="d1">정보비대칭증가</data>
+      <data key="d2">t1</data>
+      <data key="d3">case_a_korea1997</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_a_korea1997_N018_t2">
+      <data key="d0">Concept</data>
+      <data key="d1">정책대응지연</data>
+      <data key="d2">t2</data>
+      <data key="d3">case_a_korea1997</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_a_korea1997_N019_t2">
+      <data key="d0">Event</data>
+      <data key="d1">외부압력</data>
+      <data key="d2">t2</data>
+      <data key="d3">case_a_korea1997</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_a_korea1997_N020_t2">
+      <data key="d0">Concept</data>
+      <data key="d1">신호무시</data>
+      <data key="d2">t2</data>
+      <data key="d3">case_a_korea1997</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_a_korea1997_N021_t2">
+      <data key="d0">Organization</data>
+      <data key="d1">제도이완</data>
+      <data key="d2">t2</data>
+      <data key="d3">case_a_korea1997</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_a_korea1997_N022_t2">
+      <data key="d0">Concept</data>
+      <data key="d1">과잉투자</data>
+      <data key="d2">t2</data>
+      <data key="d3">case_a_korea1997</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_a_korea1997_N023_t2">
+      <data key="d0">Event</data>
+      <data key="d1">거버넌스공백</data>
+      <data key="d2">t2</data>
+      <data key="d3">case_a_korea1997</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_a_korea1997_N024_t2">
+      <data key="d0">Concept</data>
+      <data key="d1">엔트로피지표상승</data>
+      <data key="d2">t2</data>
+      <data key="d3">case_a_korea1997</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_a_korea1997_N025_t2">
+      <data key="d0">Concept</data>
+      <data key="d1">담론분열심화</data>
+      <data key="d2">t2</data>
+      <data key="d3">case_a_korea1997</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_a_korea1997_N026_t2">
+      <data key="d0">Concept</data>
+      <data key="d1">감독기관약화</data>
+      <data key="d2">t2</data>
+      <data key="d3">case_a_korea1997</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_a_korea1997_N027_t3">
+      <data key="d0">Organization</data>
+      <data key="d1">레버리지확대</data>
+      <data key="d2">t3</data>
+      <data key="d3">case_a_korea1997</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_a_korea1997_N028_t3">
+      <data key="d0">Organization</data>
+      <data key="d1">엘리트파벌형성</data>
+      <data key="d2">t3</data>
+      <data key="d3">case_a_korea1997</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_a_korea1997_N029_t3">
+      <data key="d0">Event</data>
+      <data key="d1">정보비대칭증가</data>
+      <data key="d2">t3</data>
+      <data key="d3">case_a_korea1997</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_a_korea1997_N030_t3">
+      <data key="d0">Organization</data>
+      <data key="d1">정책대응지연</data>
+      <data key="d2">t3</data>
+      <data key="d3">case_a_korea1997</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_a_korea1997_N031_t3">
+      <data key="d0">Organization</data>
+      <data key="d1">외부압력</data>
+      <data key="d2">t3</data>
+      <data key="d3">case_a_korea1997</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_a_korea1997_N032_t3">
+      <data key="d0">Event</data>
+      <data key="d1">신호무시</data>
+      <data key="d2">t3</data>
+      <data key="d3">case_a_korea1997</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_a_korea1997_N033_t3">
+      <data key="d0">Event</data>
+      <data key="d1">제도이완</data>
+      <data key="d2">t3</data>
+      <data key="d3">case_a_korea1997</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_a_korea1997_N034_t3">
+      <data key="d0">Organization</data>
+      <data key="d1">과잉투자</data>
+      <data key="d2">t3</data>
+      <data key="d3">case_a_korea1997</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_a_korea1997_N035_t3">
+      <data key="d0">Concept</data>
+      <data key="d1">거버넌스공백</data>
+      <data key="d2">t3</data>
+      <data key="d3">case_a_korea1997</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_a_korea1997_N036_t4">
+      <data key="d0">Event</data>
+      <data key="d1">엔트로피지표상승</data>
+      <data key="d2">t4</data>
+      <data key="d3">case_a_korea1997</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_a_korea1997_N037_t4">
+      <data key="d0">Concept</data>
+      <data key="d1">담론분열심화</data>
+      <data key="d2">t4</data>
+      <data key="d3">case_a_korea1997</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_a_korea1997_N038_t4">
+      <data key="d0">Organization</data>
+      <data key="d1">감독기관약화</data>
+      <data key="d2">t4</data>
+      <data key="d3">case_a_korea1997</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_a_korea1997_N039_t4">
+      <data key="d0">Event</data>
+      <data key="d1">레버리지확대</data>
+      <data key="d2">t4</data>
+      <data key="d3">case_a_korea1997</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_a_korea1997_N040_t4">
+      <data key="d0">Concept</data>
+      <data key="d1">엘리트파벌형성</data>
+      <data key="d2">t4</data>
+      <data key="d3">case_a_korea1997</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_a_korea1997_N041_t4">
+      <data key="d0">Concept</data>
+      <data key="d1">정보비대칭증가</data>
+      <data key="d2">t4</data>
+      <data key="d3">case_a_korea1997</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_a_korea1997_N042_t4">
+      <data key="d0">Event</data>
+      <data key="d1">정책대응지연</data>
+      <data key="d2">t4</data>
+      <data key="d3">case_a_korea1997</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_a_korea1997_N043_t4">
+      <data key="d0">Concept</data>
+      <data key="d1">외부압력</data>
+      <data key="d2">t4</data>
+      <data key="d3">case_a_korea1997</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_a_korea1997_N044_t4">
+      <data key="d0">Event</data>
+      <data key="d1">신호무시</data>
+      <data key="d2">t4</data>
+      <data key="d3">case_a_korea1997</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_a_korea1997_Y_t5">
+      <data key="d0">Event</data>
+      <data key="d1">IMF 구제금융 신청</data>
+      <data key="d2">t5</data>
+      <data key="d3">case_a_korea1997</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_a_korea1997_N046_t5">
+      <data key="d0">Organization</data>
+      <data key="d1">과잉투자</data>
+      <data key="d2">t5</data>
+      <data key="d3">case_a_korea1997</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_a_korea1997_N047_t5">
+      <data key="d0">Organization</data>
+      <data key="d1">거버넌스공백</data>
+      <data key="d2">t5</data>
+      <data key="d3">case_a_korea1997</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_a_korea1997_N048_t5">
+      <data key="d0">Organization</data>
+      <data key="d1">엔트로피지표상승</data>
+      <data key="d2">t5</data>
+      <data key="d3">case_a_korea1997</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_a_korea1997_N049_t5">
+      <data key="d0">Event</data>
+      <data key="d1">담론분열심화</data>
+      <data key="d2">t5</data>
+      <data key="d3">case_a_korea1997</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_a_korea1997_N050_t5">
+      <data key="d0">Concept</data>
+      <data key="d1">감독기관약화</data>
+      <data key="d2">t5</data>
+      <data key="d3">case_a_korea1997</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_a_korea1997_N051_t5">
+      <data key="d0">Event</data>
+      <data key="d1">레버리지확대</data>
+      <data key="d2">t5</data>
+      <data key="d3">case_a_korea1997</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_a_korea1997_N052_t5">
+      <data key="d0">Organization</data>
+      <data key="d1">엘리트파벌형성</data>
+      <data key="d2">t5</data>
+      <data key="d3">case_a_korea1997</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_a_korea1997_N053_t5">
+      <data key="d0">Organization</data>
+      <data key="d1">정보비대칭증가</data>
+      <data key="d2">t5</data>
+      <data key="d3">case_a_korea1997</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_a_korea1997_A0000" />
+    <node id="case_a_korea1997_A0001" />
+    <node id="case_a_korea1997_A0002" />
+    <node id="case_a_korea1997_A0003" />
+    <node id="case_a_korea1997_A0004" />
+    <node id="case_a_korea1997_A0005" />
+    <node id="case_a_korea1997_A0006" />
+    <node id="case_a_korea1997_A0007" />
+    <node id="case_a_korea1997_A0008" />
+    <node id="case_a_korea1997_A0009" />
+    <node id="case_a_korea1997_A0010" />
+    <node id="case_a_korea1997_A0011" />
+    <node id="case_a_korea1997_A0012" />
+    <node id="case_a_korea1997_A0013" />
+    <node id="case_a_korea1997_A0014" />
+    <node id="case_a_korea1997_A0015" />
+    <node id="case_a_korea1997_A0016" />
+    <node id="case_a_korea1997_A0017" />
+    <node id="case_a_korea1997_A0018" />
+    <node id="case_a_korea1997_A0019" />
+    <node id="case_a_korea1997_A0020" />
+    <node id="case_a_korea1997_A0021" />
+    <node id="case_a_korea1997_A0022" />
+    <node id="case_a_korea1997_A0023" />
+    <node id="case_a_korea1997_A0024" />
+    <node id="case_a_korea1997_A0025" />
+    <node id="case_a_korea1997_A0026" />
+    <node id="case_a_korea1997_FORCED000" />
+    <node id="case_a_korea1997_FORCED001" />
+    <node id="case_a_korea1997_FORCED002" />
+    <node id="case_a_korea1997_FORCED003" />
+    <node id="case_a_korea1997_FORCED004" />
+    <node id="case_a_korea1997_FORCED005" />
+    <node id="case_a_korea1997_FORCED006" />
+    <node id="case_a_korea1997_FORCED007" />
+    <node id="case_a_korea1997_FORCED008" />
+    <node id="case_a_korea1997_FORCED009" />
+    <node id="case_a_korea1997_CHAIN00" />
+    <node id="case_a_korea1997_CHAIN01" />
+    <node id="case_a_korea1997_CHAIN02" />
+    <node id="case_b_dotcom_W_t0">
+      <data key="d0">Event</data>
+      <data key="d1">VC/IPO 자금 폭증</data>
+      <data key="d2">t0</data>
+      <data key="d3">case_b_dotcom</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_b_dotcom_N001_t0">
+      <data key="d0">Event</data>
+      <data key="d1">담론분열심화</data>
+      <data key="d2">t0</data>
+      <data key="d3">case_b_dotcom</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_b_dotcom_N002_t0">
+      <data key="d0">Organization</data>
+      <data key="d1">감독기관약화</data>
+      <data key="d2">t0</data>
+      <data key="d3">case_b_dotcom</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_b_dotcom_N003_t0">
+      <data key="d0">Event</data>
+      <data key="d1">레버리지확대</data>
+      <data key="d2">t0</data>
+      <data key="d3">case_b_dotcom</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_b_dotcom_N004_t0">
+      <data key="d0">Concept</data>
+      <data key="d1">엘리트파벌형성</data>
+      <data key="d2">t0</data>
+      <data key="d3">case_b_dotcom</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_b_dotcom_N005_t0">
+      <data key="d0">Concept</data>
+      <data key="d1">정보비대칭증가</data>
+      <data key="d2">t0</data>
+      <data key="d3">case_b_dotcom</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_b_dotcom_N006_t0">
+      <data key="d0">Event</data>
+      <data key="d1">정책대응지연</data>
+      <data key="d2">t0</data>
+      <data key="d3">case_b_dotcom</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_b_dotcom_N007_t0">
+      <data key="d0">Concept</data>
+      <data key="d1">외부압력</data>
+      <data key="d2">t0</data>
+      <data key="d3">case_b_dotcom</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_b_dotcom_N008_t1">
+      <data key="d0">Organization</data>
+      <data key="d1">신호무시</data>
+      <data key="d2">t1</data>
+      <data key="d3">case_b_dotcom</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_b_dotcom_N009_t1">
+      <data key="d0">Concept</data>
+      <data key="d1">제도이완</data>
+      <data key="d2">t1</data>
+      <data key="d3">case_b_dotcom</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_b_dotcom_N010_t1">
+      <data key="d0">Organization</data>
+      <data key="d1">과잉투자</data>
+      <data key="d2">t1</data>
+      <data key="d3">case_b_dotcom</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_b_dotcom_N011_t1">
+      <data key="d0">Organization</data>
+      <data key="d1">거버넌스공백</data>
+      <data key="d2">t1</data>
+      <data key="d3">case_b_dotcom</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_b_dotcom_N012_t1">
+      <data key="d0">Event</data>
+      <data key="d1">엔트로피지표상승</data>
+      <data key="d2">t1</data>
+      <data key="d3">case_b_dotcom</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_b_dotcom_N013_t1">
+      <data key="d0">Organization</data>
+      <data key="d1">담론분열심화</data>
+      <data key="d2">t1</data>
+      <data key="d3">case_b_dotcom</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_b_dotcom_N014_t1">
+      <data key="d0">Event</data>
+      <data key="d1">감독기관약화</data>
+      <data key="d2">t1</data>
+      <data key="d3">case_b_dotcom</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_b_dotcom_N015_t1">
+      <data key="d0">Event</data>
+      <data key="d1">레버리지확대</data>
+      <data key="d2">t1</data>
+      <data key="d3">case_b_dotcom</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_b_dotcom_N016_t2">
+      <data key="d0">Event</data>
+      <data key="d1">엘리트파벌형성</data>
+      <data key="d2">t2</data>
+      <data key="d3">case_b_dotcom</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_b_dotcom_N017_t2">
+      <data key="d0">Organization</data>
+      <data key="d1">정보비대칭증가</data>
+      <data key="d2">t2</data>
+      <data key="d3">case_b_dotcom</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_b_dotcom_N018_t2">
+      <data key="d0">Organization</data>
+      <data key="d1">정책대응지연</data>
+      <data key="d2">t2</data>
+      <data key="d3">case_b_dotcom</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_b_dotcom_N019_t2">
+      <data key="d0">Event</data>
+      <data key="d1">외부압력</data>
+      <data key="d2">t2</data>
+      <data key="d3">case_b_dotcom</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_b_dotcom_N020_t2">
+      <data key="d0">Event</data>
+      <data key="d1">신호무시</data>
+      <data key="d2">t2</data>
+      <data key="d3">case_b_dotcom</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_b_dotcom_N021_t2">
+      <data key="d0">Event</data>
+      <data key="d1">제도이완</data>
+      <data key="d2">t2</data>
+      <data key="d3">case_b_dotcom</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_b_dotcom_N022_t2">
+      <data key="d0">Organization</data>
+      <data key="d1">과잉투자</data>
+      <data key="d2">t2</data>
+      <data key="d3">case_b_dotcom</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_b_dotcom_N023_t2">
+      <data key="d0">Event</data>
+      <data key="d1">거버넌스공백</data>
+      <data key="d2">t2</data>
+      <data key="d3">case_b_dotcom</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_b_dotcom_N024_t3">
+      <data key="d0">Concept</data>
+      <data key="d1">엔트로피지표상승</data>
+      <data key="d2">t3</data>
+      <data key="d3">case_b_dotcom</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_b_dotcom_N025_t3">
+      <data key="d0">Event</data>
+      <data key="d1">담론분열심화</data>
+      <data key="d2">t3</data>
+      <data key="d3">case_b_dotcom</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_b_dotcom_N026_t3">
+      <data key="d0">Event</data>
+      <data key="d1">감독기관약화</data>
+      <data key="d2">t3</data>
+      <data key="d3">case_b_dotcom</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_b_dotcom_N027_t3">
+      <data key="d0">Event</data>
+      <data key="d1">레버리지확대</data>
+      <data key="d2">t3</data>
+      <data key="d3">case_b_dotcom</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_b_dotcom_N028_t3">
+      <data key="d0">Organization</data>
+      <data key="d1">엘리트파벌형성</data>
+      <data key="d2">t3</data>
+      <data key="d3">case_b_dotcom</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_b_dotcom_N029_t3">
+      <data key="d0">Organization</data>
+      <data key="d1">정보비대칭증가</data>
+      <data key="d2">t3</data>
+      <data key="d3">case_b_dotcom</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_b_dotcom_N030_t3">
+      <data key="d0">Concept</data>
+      <data key="d1">정책대응지연</data>
+      <data key="d2">t3</data>
+      <data key="d3">case_b_dotcom</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_b_dotcom_N031_t3">
+      <data key="d0">Event</data>
+      <data key="d1">외부압력</data>
+      <data key="d2">t3</data>
+      <data key="d3">case_b_dotcom</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_b_dotcom_N032_t4">
+      <data key="d0">Event</data>
+      <data key="d1">신호무시</data>
+      <data key="d2">t4</data>
+      <data key="d3">case_b_dotcom</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_b_dotcom_N033_t4">
+      <data key="d0">Concept</data>
+      <data key="d1">제도이완</data>
+      <data key="d2">t4</data>
+      <data key="d3">case_b_dotcom</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_b_dotcom_N034_t4">
+      <data key="d0">Concept</data>
+      <data key="d1">과잉투자</data>
+      <data key="d2">t4</data>
+      <data key="d3">case_b_dotcom</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_b_dotcom_N035_t4">
+      <data key="d0">Organization</data>
+      <data key="d1">거버넌스공백</data>
+      <data key="d2">t4</data>
+      <data key="d3">case_b_dotcom</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_b_dotcom_N036_t4">
+      <data key="d0">Concept</data>
+      <data key="d1">엔트로피지표상승</data>
+      <data key="d2">t4</data>
+      <data key="d3">case_b_dotcom</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_b_dotcom_N037_t4">
+      <data key="d0">Organization</data>
+      <data key="d1">담론분열심화</data>
+      <data key="d2">t4</data>
+      <data key="d3">case_b_dotcom</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_b_dotcom_N038_t4">
+      <data key="d0">Concept</data>
+      <data key="d1">감독기관약화</data>
+      <data key="d2">t4</data>
+      <data key="d3">case_b_dotcom</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_b_dotcom_N039_t4">
+      <data key="d0">Concept</data>
+      <data key="d1">레버리지확대</data>
+      <data key="d2">t4</data>
+      <data key="d3">case_b_dotcom</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_b_dotcom_Y_t5">
+      <data key="d0">Event</data>
+      <data key="d1">NASDAQ 80% 하락 및 기업 파산</data>
+      <data key="d2">t5</data>
+      <data key="d3">case_b_dotcom</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_b_dotcom_N041_t5">
+      <data key="d0">Organization</data>
+      <data key="d1">정보비대칭증가</data>
+      <data key="d2">t5</data>
+      <data key="d3">case_b_dotcom</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_b_dotcom_N042_t5">
+      <data key="d0">Event</data>
+      <data key="d1">정책대응지연</data>
+      <data key="d2">t5</data>
+      <data key="d3">case_b_dotcom</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_b_dotcom_N043_t5">
+      <data key="d0">Event</data>
+      <data key="d1">외부압력</data>
+      <data key="d2">t5</data>
+      <data key="d3">case_b_dotcom</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_b_dotcom_N044_t5">
+      <data key="d0">Concept</data>
+      <data key="d1">신호무시</data>
+      <data key="d2">t5</data>
+      <data key="d3">case_b_dotcom</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_b_dotcom_N045_t5">
+      <data key="d0">Event</data>
+      <data key="d1">제도이완</data>
+      <data key="d2">t5</data>
+      <data key="d3">case_b_dotcom</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_b_dotcom_N046_t5">
+      <data key="d0">Event</data>
+      <data key="d1">과잉투자</data>
+      <data key="d2">t5</data>
+      <data key="d3">case_b_dotcom</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_b_dotcom_N047_t5">
+      <data key="d0">Organization</data>
+      <data key="d1">거버넌스공백</data>
+      <data key="d2">t5</data>
+      <data key="d3">case_b_dotcom</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_b_dotcom_A0000" />
+    <node id="case_b_dotcom_A0001" />
+    <node id="case_b_dotcom_A0002" />
+    <node id="case_b_dotcom_A0003" />
+    <node id="case_b_dotcom_A0004" />
+    <node id="case_b_dotcom_A0005" />
+    <node id="case_b_dotcom_A0006" />
+    <node id="case_b_dotcom_A0007" />
+    <node id="case_b_dotcom_A0008" />
+    <node id="case_b_dotcom_A0009" />
+    <node id="case_b_dotcom_A0010" />
+    <node id="case_b_dotcom_A0011" />
+    <node id="case_b_dotcom_A0012" />
+    <node id="case_b_dotcom_A0013" />
+    <node id="case_b_dotcom_A0014" />
+    <node id="case_b_dotcom_A0015" />
+    <node id="case_b_dotcom_A0016" />
+    <node id="case_b_dotcom_A0017" />
+    <node id="case_b_dotcom_A0018" />
+    <node id="case_b_dotcom_A0019" />
+    <node id="case_b_dotcom_A0020" />
+    <node id="case_b_dotcom_A0021" />
+    <node id="case_b_dotcom_A0022" />
+    <node id="case_b_dotcom_A0023" />
+    <node id="case_b_dotcom_FORCED000" />
+    <node id="case_b_dotcom_FORCED001" />
+    <node id="case_b_dotcom_FORCED002" />
+    <node id="case_b_dotcom_FORCED003" />
+    <node id="case_b_dotcom_FORCED004" />
+    <node id="case_b_dotcom_FORCED005" />
+    <node id="case_b_dotcom_FORCED006" />
+    <node id="case_b_dotcom_FORCED007" />
+    <node id="case_b_dotcom_FORCED008" />
+    <node id="case_b_dotcom_CHAIN00" />
+    <node id="case_b_dotcom_CHAIN01" />
+    <node id="case_b_dotcom_CHAIN02" />
+    <node id="case_c_sparta_W_t0">
+      <data key="d0">Event</data>
+      <data key="d1">헬로트 노동 전유</data>
+      <data key="d2">t0</data>
+      <data key="d3">case_c_sparta</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_c_sparta_N001_t0">
+      <data key="d0">Concept</data>
+      <data key="d1">담론분열심화</data>
+      <data key="d2">t0</data>
+      <data key="d3">case_c_sparta</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_c_sparta_N002_t0">
+      <data key="d0">Organization</data>
+      <data key="d1">감독기관약화</data>
+      <data key="d2">t0</data>
+      <data key="d3">case_c_sparta</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_c_sparta_N003_t2">
+      <data key="d0">Concept</data>
+      <data key="d1">레버리지확대</data>
+      <data key="d2">t2</data>
+      <data key="d3">case_c_sparta</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_c_sparta_Y_t5">
+      <data key="d0">Event</data>
+      <data key="d1">레욱트라 전투 패배</data>
+      <data key="d2">t5</data>
+      <data key="d3">case_c_sparta</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_c_sparta_N005_t5">
+      <data key="d0">Organization</data>
+      <data key="d1">정보비대칭증가</data>
+      <data key="d2">t5</data>
+      <data key="d3">case_c_sparta</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_c_sparta_N006_t5">
+      <data key="d0">Event</data>
+      <data key="d1">정책대응지연</data>
+      <data key="d2">t5</data>
+      <data key="d3">case_c_sparta</data>
+      <data key="d4">{"y_value": 1}</data>
+    </node>
+    <node id="case_c_sparta_A0001" />
+    <node id="case_c_sparta_A0004" />
+    <node id="case_c_sparta_A0005" />
+    <node id="case_c_sparta_A0009" />
+    <node id="case_c_sparta_A0011" />
+    <node id="case_c_sparta_A0012" />
+    <node id="case_c_sparta_A0013" />
+    <node id="case_c_sparta_A0014" />
+    <node id="case_c_sparta_FORCED000" />
+    <node id="case_c_sparta_FORCED003" />
+    <node id="case_c_sparta_FORCED004" />
+    <node id="case_c_sparta_FORCED005" />
+    <node id="case_c_sparta_CHAIN00" />
+    <node id="case_c_sparta_CHAIN01" />
+    <node id="controls_W_t0">
+      <data key="d0">Event</data>
+      <data key="d1">외자 유입(대만 1997)</data>
+      <data key="d2">t0</data>
+      <data key="d3">controls</data>
+      <data key="d4">{"y_value": 0}</data>
+    </node>
+    <node id="controls_N001_t0">
+      <data key="d0">Event</data>
+      <data key="d1">담론분열심화</data>
+      <data key="d2">t0</data>
+      <data key="d3">controls</data>
+      <data key="d4">{"y_value": 0}</data>
+    </node>
+    <node id="controls_N002_t0">
+      <data key="d0">Concept</data>
+      <data key="d1">감독기관약화</data>
+      <data key="d2">t0</data>
+      <data key="d3">controls</data>
+      <data key="d4">{"y_value": 0}</data>
+    </node>
+    <node id="controls_N003_t0">
+      <data key="d0">Event</data>
+      <data key="d1">레버리지확대</data>
+      <data key="d2">t0</data>
+      <data key="d3">controls</data>
+      <data key="d4">{"y_value": 0}</data>
+    </node>
+    <node id="controls_N004_t0">
+      <data key="d0">Event</data>
+      <data key="d1">엘리트파벌형성</data>
+      <data key="d2">t0</data>
+      <data key="d3">controls</data>
+      <data key="d4">{"y_value": 0}</data>
+    </node>
+    <node id="controls_N005_t0">
+      <data key="d0">Organization</data>
+      <data key="d1">정보비대칭증가</data>
+      <data key="d2">t0</data>
+      <data key="d3">controls</data>
+      <data key="d4">{"y_value": 0}</data>
+    </node>
+    <node id="controls_N006_t1">
+      <data key="d0">Event</data>
+      <data key="d1">정책대응지연</data>
+      <data key="d2">t1</data>
+      <data key="d3">controls</data>
+      <data key="d4">{"y_value": 0}</data>
+    </node>
+    <node id="controls_N007_t1">
+      <data key="d0">Concept</data>
+      <data key="d1">외부압력</data>
+      <data key="d2">t1</data>
+      <data key="d3">controls</data>
+      <data key="d4">{"y_value": 0}</data>
+    </node>
+    <node id="controls_N008_t1">
+      <data key="d0">Concept</data>
+      <data key="d1">신호무시</data>
+      <data key="d2">t1</data>
+      <data key="d3">controls</data>
+      <data key="d4">{"y_value": 0}</data>
+    </node>
+    <node id="controls_N009_t1">
+      <data key="d0">Organization</data>
+      <data key="d1">제도이완</data>
+      <data key="d2">t1</data>
+      <data key="d3">controls</data>
+      <data key="d4">{"y_value": 0}</data>
+    </node>
+    <node id="controls_N010_t1">
+      <data key="d0">Organization</data>
+      <data key="d1">과잉투자</data>
+      <data key="d2">t1</data>
+      <data key="d3">controls</data>
+      <data key="d4">{"y_value": 0}</data>
+    </node>
+    <node id="controls_N011_t1">
+      <data key="d0">Event</data>
+      <data key="d1">거버넌스공백</data>
+      <data key="d2">t1</data>
+      <data key="d3">controls</data>
+      <data key="d4">{"y_value": 0}</data>
+    </node>
+    <node id="controls_N012_t2">
+      <data key="d0">Organization</data>
+      <data key="d1">엔트로피지표상승</data>
+      <data key="d2">t2</data>
+      <data key="d3">controls</data>
+      <data key="d4">{"y_value": 0}</data>
+    </node>
+    <node id="controls_N013_t2">
+      <data key="d0">Concept</data>
+      <data key="d1">담론분열심화</data>
+      <data key="d2">t2</data>
+      <data key="d3">controls</data>
+      <data key="d4">{"y_value": 0}</data>
+    </node>
+    <node id="controls_N014_t2">
+      <data key="d0">Concept</data>
+      <data key="d1">감독기관약화</data>
+      <data key="d2">t2</data>
+      <data key="d3">controls</data>
+      <data key="d4">{"y_value": 0}</data>
+    </node>
+    <node id="controls_N015_t2">
+      <data key="d0">Event</data>
+      <data key="d1">레버리지확대</data>
+      <data key="d2">t2</data>
+      <data key="d3">controls</data>
+      <data key="d4">{"y_value": 0}</data>
+    </node>
+    <node id="controls_N016_t2">
+      <data key="d0">Organization</data>
+      <data key="d1">엘리트파벌형성</data>
+      <data key="d2">t2</data>
+      <data key="d3">controls</data>
+      <data key="d4">{"y_value": 0}</data>
+    </node>
+    <node id="controls_N017_t2">
+      <data key="d0">Event</data>
+      <data key="d1">정보비대칭증가</data>
+      <data key="d2">t2</data>
+      <data key="d3">controls</data>
+      <data key="d4">{"y_value": 0}</data>
+    </node>
+    <node id="controls_N018_t3">
+      <data key="d0">Concept</data>
+      <data key="d1">정책대응지연</data>
+      <data key="d2">t3</data>
+      <data key="d3">controls</data>
+      <data key="d4">{"y_value": 0}</data>
+    </node>
+    <node id="controls_N019_t3">
+      <data key="d0">Concept</data>
+      <data key="d1">외부압력</data>
+      <data key="d2">t3</data>
+      <data key="d3">controls</data>
+      <data key="d4">{"y_value": 0}</data>
+    </node>
+    <node id="controls_N020_t3">
+      <data key="d0">Event</data>
+      <data key="d1">신호무시</data>
+      <data key="d2">t3</data>
+      <data key="d3">controls</data>
+      <data key="d4">{"y_value": 0}</data>
+    </node>
+    <node id="controls_N021_t3">
+      <data key="d0">Concept</data>
+      <data key="d1">제도이완</data>
+      <data key="d2">t3</data>
+      <data key="d3">controls</data>
+      <data key="d4">{"y_value": 0}</data>
+    </node>
+    <node id="controls_N022_t3">
+      <data key="d0">Organization</data>
+      <data key="d1">과잉투자</data>
+      <data key="d2">t3</data>
+      <data key="d3">controls</data>
+      <data key="d4">{"y_value": 0}</data>
+    </node>
+    <node id="controls_N023_t3">
+      <data key="d0">Concept</data>
+      <data key="d1">거버넌스공백</data>
+      <data key="d2">t3</data>
+      <data key="d3">controls</data>
+      <data key="d4">{"y_value": 0}</data>
+    </node>
+    <node id="controls_N024_t4">
+      <data key="d0">Event</data>
+      <data key="d1">엔트로피지표상승</data>
+      <data key="d2">t4</data>
+      <data key="d3">controls</data>
+      <data key="d4">{"y_value": 0}</data>
+    </node>
+    <node id="controls_N025_t4">
+      <data key="d0">Event</data>
+      <data key="d1">담론분열심화</data>
+      <data key="d2">t4</data>
+      <data key="d3">controls</data>
+      <data key="d4">{"y_value": 0}</data>
+    </node>
+    <node id="controls_N026_t4">
+      <data key="d0">Event</data>
+      <data key="d1">감독기관약화</data>
+      <data key="d2">t4</data>
+      <data key="d3">controls</data>
+      <data key="d4">{"y_value": 0}</data>
+    </node>
+    <node id="controls_N027_t4">
+      <data key="d0">Concept</data>
+      <data key="d1">레버리지확대</data>
+      <data key="d2">t4</data>
+      <data key="d3">controls</data>
+      <data key="d4">{"y_value": 0}</data>
+    </node>
+    <node id="controls_N028_t4">
+      <data key="d0">Organization</data>
+      <data key="d1">엘리트파벌형성</data>
+      <data key="d2">t4</data>
+      <data key="d3">controls</data>
+      <data key="d4">{"y_value": 0}</data>
+    </node>
+    <node id="controls_N029_t4">
+      <data key="d0">Organization</data>
+      <data key="d1">정보비대칭증가</data>
+      <data key="d2">t4</data>
+      <data key="d3">controls</data>
+      <data key="d4">{"y_value": 0}</data>
+    </node>
+    <node id="controls_Y_t5">
+      <data key="d0">Event</data>
+      <data key="d1">안정유지</data>
+      <data key="d2">t5</data>
+      <data key="d3">controls</data>
+      <data key="d4">{"y_value": 0}</data>
+    </node>
+    <node id="controls_N031_t5">
+      <data key="d0">Organization</data>
+      <data key="d1">외부압력</data>
+      <data key="d2">t5</data>
+      <data key="d3">controls</data>
+      <data key="d4">{"y_value": 0}</data>
+    </node>
+    <node id="controls_N032_t5">
+      <data key="d0">Organization</data>
+      <data key="d1">신호무시</data>
+      <data key="d2">t5</data>
+      <data key="d3">controls</data>
+      <data key="d4">{"y_value": 0}</data>
+    </node>
+    <node id="controls_N033_t5">
+      <data key="d0">Event</data>
+      <data key="d1">제도이완</data>
+      <data key="d2">t5</data>
+      <data key="d3">controls</data>
+      <data key="d4">{"y_value": 0}</data>
+    </node>
+    <node id="controls_N034_t5">
+      <data key="d0">Organization</data>
+      <data key="d1">과잉투자</data>
+      <data key="d2">t5</data>
+      <data key="d3">controls</data>
+      <data key="d4">{"y_value": 0}</data>
+    </node>
+    <node id="controls_N035_t5">
+      <data key="d0">Organization</data>
+      <data key="d1">거버넌스공백</data>
+      <data key="d2">t5</data>
+      <data key="d3">controls</data>
+      <data key="d4">{"y_value": 0}</data>
+    </node>
+    <node id="controls_A0000" />
+    <node id="controls_A0001" />
+    <node id="controls_A0002" />
+    <node id="controls_A0003" />
+    <node id="controls_A0004" />
+    <node id="controls_A0005" />
+    <node id="controls_A0006" />
+    <node id="controls_A0007" />
+    <node id="controls_A0008" />
+    <node id="controls_A0009" />
+    <node id="controls_A0010" />
+    <node id="controls_A0011" />
+    <node id="controls_A0012" />
+    <node id="controls_A0013" />
+    <node id="controls_A0014" />
+    <node id="controls_A0015" />
+    <node id="controls_A0016" />
+    <node id="controls_A0017" />
+    <node id="controls_FORCED000" />
+    <node id="controls_FORCED001" />
+    <node id="controls_FORCED002" />
+    <node id="controls_FORCED003" />
+    <node id="controls_FORCED004" />
+    <node id="controls_FORCED005" />
+    <node id="controls_FORCED006" />
+    <node id="controls_CHAIN00" />
+    <node id="controls_CHAIN01" />
+    <node id="controls_CHAIN02" />
+    <edge source="case_a_korea1997_W_t0" target="case_a_korea1997_N009_t1" id="0">
+      <data key="d5">PRECEDES</data>
+      <data key="d6">case_a_korea1997</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_a_korea1997_W_t0" target="case_a_korea1997_N009_t1" id="1">
+      <data key="d5">PRECEDES</data>
+      <data key="d6">case_a_korea1997</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_a_korea1997_W_t0" target="case_a_korea1997_N018_t2" id="0">
+      <data key="d5">CAUSE</data>
+      <data key="d6">case_a_korea1997</data>
+      <data key="d7">{"chain_type": "backbone"}</data>
+    </edge>
+    <edge source="case_a_korea1997_N009_t1" target="case_a_korea1997_N018_t2" id="0">
+      <data key="d5">PRECEDES</data>
+      <data key="d6">case_a_korea1997</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_a_korea1997_N009_t1" target="case_a_korea1997_N019_t2" id="0">
+      <data key="d5">PRECEDES</data>
+      <data key="d6">case_a_korea1997</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_a_korea1997_N018_t2" target="case_a_korea1997_N027_t3" id="0">
+      <data key="d5">PRECEDES</data>
+      <data key="d6">case_a_korea1997</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_a_korea1997_N018_t2" target="case_a_korea1997_N036_t4" id="0">
+      <data key="d5">CAUSE</data>
+      <data key="d6">case_a_korea1997</data>
+      <data key="d7">{"chain_type": "backbone"}</data>
+    </edge>
+    <edge source="case_a_korea1997_N019_t2" target="case_a_korea1997_N029_t3" id="0">
+      <data key="d5">PRECEDES</data>
+      <data key="d6">case_a_korea1997</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_a_korea1997_N027_t3" target="case_a_korea1997_N036_t4" id="0">
+      <data key="d5">PRECEDES</data>
+      <data key="d6">case_a_korea1997</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_a_korea1997_N029_t3" target="case_a_korea1997_N036_t4" id="0">
+      <data key="d5">PRECEDES</data>
+      <data key="d6">case_a_korea1997</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_a_korea1997_N036_t4" target="case_a_korea1997_Y_t5" id="0">
+      <data key="d5">PRECEDES</data>
+      <data key="d6">case_a_korea1997</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_a_korea1997_N036_t4" target="case_a_korea1997_Y_t5" id="1">
+      <data key="d5">CAUSE</data>
+      <data key="d6">case_a_korea1997</data>
+      <data key="d7">{"chain_type": "backbone"}</data>
+    </edge>
+    <edge source="case_a_korea1997_N036_t4" target="case_a_korea1997_Y_t5" id="2">
+      <data key="d5">PRECEDES</data>
+      <data key="d6">case_a_korea1997</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_a_korea1997_A0000" target="case_a_korea1997_Y_t5" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_a_korea1997</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_a_korea1997_A0001" target="case_a_korea1997_N018_t2" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_a_korea1997</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_a_korea1997_A0002" target="case_a_korea1997_N036_t4" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_a_korea1997</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_a_korea1997_A0003" target="case_a_korea1997_N018_t2" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_a_korea1997</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_a_korea1997_A0004" target="case_a_korea1997_W_t0" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_a_korea1997</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_a_korea1997_A0005" target="case_a_korea1997_N027_t3" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_a_korea1997</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_a_korea1997_A0006" target="case_a_korea1997_W_t0" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_a_korea1997</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_a_korea1997_A0007" target="case_a_korea1997_W_t0" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_a_korea1997</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_a_korea1997_A0008" target="case_a_korea1997_N036_t4" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_a_korea1997</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_a_korea1997_A0009" target="case_a_korea1997_Y_t5" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_a_korea1997</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_a_korea1997_A0010" target="case_a_korea1997_N018_t2" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_a_korea1997</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_a_korea1997_A0011" target="case_a_korea1997_N036_t4" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_a_korea1997</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_a_korea1997_A0012" target="case_a_korea1997_W_t0" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_a_korea1997</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_a_korea1997_A0013" target="case_a_korea1997_N009_t1" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_a_korea1997</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_a_korea1997_A0014" target="case_a_korea1997_N009_t1" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_a_korea1997</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_a_korea1997_A0015" target="case_a_korea1997_N009_t1" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_a_korea1997</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_a_korea1997_A0016" target="case_a_korea1997_N018_t2" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_a_korea1997</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_a_korea1997_A0017" target="case_a_korea1997_N027_t3" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_a_korea1997</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_a_korea1997_A0018" target="case_a_korea1997_N027_t3" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_a_korea1997</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_a_korea1997_A0019" target="case_a_korea1997_N036_t4" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_a_korea1997</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_a_korea1997_A0020" target="case_a_korea1997_Y_t5" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_a_korea1997</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_a_korea1997_A0021" target="case_a_korea1997_W_t0" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_a_korea1997</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_a_korea1997_A0022" target="case_a_korea1997_N009_t1" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_a_korea1997</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_a_korea1997_A0023" target="case_a_korea1997_N036_t4" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_a_korea1997</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_a_korea1997_A0024" target="case_a_korea1997_N018_t2" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_a_korea1997</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_a_korea1997_A0025" target="case_a_korea1997_N018_t2" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_a_korea1997</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_a_korea1997_A0026" target="case_a_korea1997_N018_t2" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_a_korea1997</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_a_korea1997_FORCED000" target="case_a_korea1997_N009_t1" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_a_korea1997</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_a_korea1997_FORCED001" target="case_a_korea1997_W_t0" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_a_korea1997</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_a_korea1997_FORCED002" target="case_a_korea1997_N018_t2" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_a_korea1997</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_a_korea1997_FORCED003" target="case_a_korea1997_Y_t5" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_a_korea1997</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_a_korea1997_FORCED004" target="case_a_korea1997_N027_t3" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_a_korea1997</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_a_korea1997_FORCED005" target="case_a_korea1997_N036_t4" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_a_korea1997</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_a_korea1997_FORCED006" target="case_a_korea1997_W_t0" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_a_korea1997</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_a_korea1997_FORCED007" target="case_a_korea1997_W_t0" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_a_korea1997</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_a_korea1997_FORCED008" target="case_a_korea1997_Y_t5" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_a_korea1997</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_a_korea1997_FORCED009" target="case_a_korea1997_Y_t5" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_a_korea1997</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_a_korea1997_CHAIN00" target="case_a_korea1997_W_t0" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_a_korea1997</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_a_korea1997_CHAIN01" target="case_a_korea1997_N018_t2" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_a_korea1997</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_a_korea1997_CHAIN02" target="case_a_korea1997_N036_t4" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_a_korea1997</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_b_dotcom_W_t0" target="case_b_dotcom_N008_t1" id="0">
+      <data key="d5">PRECEDES</data>
+      <data key="d6">case_b_dotcom</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_b_dotcom_W_t0" target="case_b_dotcom_N016_t2" id="0">
+      <data key="d5">CAUSE</data>
+      <data key="d6">case_b_dotcom</data>
+      <data key="d7">{"chain_type": "backbone"}</data>
+    </edge>
+    <edge source="case_b_dotcom_W_t0" target="case_b_dotcom_N012_t1" id="0">
+      <data key="d5">PRECEDES</data>
+      <data key="d6">case_b_dotcom</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_b_dotcom_N008_t1" target="case_b_dotcom_N016_t2" id="0">
+      <data key="d5">PRECEDES</data>
+      <data key="d6">case_b_dotcom</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_b_dotcom_N012_t1" target="case_b_dotcom_N016_t2" id="0">
+      <data key="d5">PRECEDES</data>
+      <data key="d6">case_b_dotcom</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_b_dotcom_N016_t2" target="case_b_dotcom_N024_t3" id="0">
+      <data key="d5">PRECEDES</data>
+      <data key="d6">case_b_dotcom</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_b_dotcom_N016_t2" target="case_b_dotcom_N032_t4" id="0">
+      <data key="d5">CAUSE</data>
+      <data key="d6">case_b_dotcom</data>
+      <data key="d7">{"chain_type": "backbone"}</data>
+    </edge>
+    <edge source="case_b_dotcom_N016_t2" target="case_b_dotcom_N025_t3" id="0">
+      <data key="d5">PRECEDES</data>
+      <data key="d6">case_b_dotcom</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_b_dotcom_N024_t3" target="case_b_dotcom_N032_t4" id="0">
+      <data key="d5">PRECEDES</data>
+      <data key="d6">case_b_dotcom</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_b_dotcom_N025_t3" target="case_b_dotcom_N032_t4" id="0">
+      <data key="d5">PRECEDES</data>
+      <data key="d6">case_b_dotcom</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_b_dotcom_N032_t4" target="case_b_dotcom_Y_t5" id="0">
+      <data key="d5">PRECEDES</data>
+      <data key="d6">case_b_dotcom</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_b_dotcom_N032_t4" target="case_b_dotcom_Y_t5" id="1">
+      <data key="d5">CAUSE</data>
+      <data key="d6">case_b_dotcom</data>
+      <data key="d7">{"chain_type": "backbone"}</data>
+    </edge>
+    <edge source="case_b_dotcom_N032_t4" target="case_b_dotcom_Y_t5" id="2">
+      <data key="d5">PRECEDES</data>
+      <data key="d6">case_b_dotcom</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_b_dotcom_A0000" target="case_b_dotcom_N016_t2" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_b_dotcom</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_b_dotcom_A0001" target="case_b_dotcom_Y_t5" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_b_dotcom</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_b_dotcom_A0002" target="case_b_dotcom_N024_t3" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_b_dotcom</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_b_dotcom_A0003" target="case_b_dotcom_Y_t5" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_b_dotcom</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_b_dotcom_A0004" target="case_b_dotcom_N032_t4" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_b_dotcom</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_b_dotcom_A0005" target="case_b_dotcom_Y_t5" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_b_dotcom</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_b_dotcom_A0006" target="case_b_dotcom_N032_t4" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_b_dotcom</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_b_dotcom_A0007" target="case_b_dotcom_N032_t4" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_b_dotcom</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_b_dotcom_A0008" target="case_b_dotcom_N016_t2" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_b_dotcom</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_b_dotcom_A0009" target="case_b_dotcom_N032_t4" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_b_dotcom</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_b_dotcom_A0010" target="case_b_dotcom_Y_t5" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_b_dotcom</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_b_dotcom_A0011" target="case_b_dotcom_N032_t4" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_b_dotcom</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_b_dotcom_A0012" target="case_b_dotcom_N032_t4" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_b_dotcom</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_b_dotcom_A0013" target="case_b_dotcom_N016_t2" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_b_dotcom</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_b_dotcom_A0014" target="case_b_dotcom_W_t0" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_b_dotcom</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_b_dotcom_A0015" target="case_b_dotcom_Y_t5" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_b_dotcom</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_b_dotcom_A0016" target="case_b_dotcom_W_t0" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_b_dotcom</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_b_dotcom_A0017" target="case_b_dotcom_W_t0" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_b_dotcom</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_b_dotcom_A0018" target="case_b_dotcom_W_t0" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_b_dotcom</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_b_dotcom_A0019" target="case_b_dotcom_W_t0" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_b_dotcom</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_b_dotcom_A0020" target="case_b_dotcom_N032_t4" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_b_dotcom</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_b_dotcom_A0021" target="case_b_dotcom_W_t0" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_b_dotcom</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_b_dotcom_A0022" target="case_b_dotcom_N016_t2" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_b_dotcom</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_b_dotcom_A0023" target="case_b_dotcom_N008_t1" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_b_dotcom</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_b_dotcom_FORCED000" target="case_b_dotcom_N032_t4" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_b_dotcom</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_b_dotcom_FORCED001" target="case_b_dotcom_N008_t1" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_b_dotcom</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_b_dotcom_FORCED002" target="case_b_dotcom_Y_t5" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_b_dotcom</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_b_dotcom_FORCED003" target="case_b_dotcom_N032_t4" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_b_dotcom</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_b_dotcom_FORCED004" target="case_b_dotcom_N016_t2" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_b_dotcom</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_b_dotcom_FORCED005" target="case_b_dotcom_N008_t1" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_b_dotcom</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_b_dotcom_FORCED006" target="case_b_dotcom_W_t0" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_b_dotcom</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_b_dotcom_FORCED007" target="case_b_dotcom_Y_t5" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_b_dotcom</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_b_dotcom_FORCED008" target="case_b_dotcom_N024_t3" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_b_dotcom</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_b_dotcom_CHAIN00" target="case_b_dotcom_W_t0" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_b_dotcom</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_b_dotcom_CHAIN01" target="case_b_dotcom_N016_t2" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_b_dotcom</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_b_dotcom_CHAIN02" target="case_b_dotcom_N032_t4" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_b_dotcom</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_c_sparta_W_t0" target="case_c_sparta_N003_t2" id="0">
+      <data key="d5">CAUSE</data>
+      <data key="d6">case_c_sparta</data>
+      <data key="d7">{"chain_type": "backbone"}</data>
+    </edge>
+    <edge source="case_c_sparta_N003_t2" target="case_c_sparta_Y_t5" id="0">
+      <data key="d5">CAUSE</data>
+      <data key="d6">case_c_sparta</data>
+      <data key="d7">{"chain_type": "backbone"}</data>
+    </edge>
+    <edge source="case_c_sparta_A0001" target="case_c_sparta_W_t0" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_c_sparta</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_c_sparta_A0004" target="case_c_sparta_N003_t2" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_c_sparta</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_c_sparta_A0005" target="case_c_sparta_W_t0" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_c_sparta</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_c_sparta_A0009" target="case_c_sparta_W_t0" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_c_sparta</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_c_sparta_A0011" target="case_c_sparta_N003_t2" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_c_sparta</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_c_sparta_A0012" target="case_c_sparta_W_t0" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_c_sparta</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_c_sparta_A0013" target="case_c_sparta_Y_t5" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_c_sparta</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_c_sparta_A0014" target="case_c_sparta_N003_t2" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_c_sparta</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_c_sparta_FORCED000" target="case_c_sparta_N003_t2" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_c_sparta</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_c_sparta_FORCED003" target="case_c_sparta_N003_t2" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_c_sparta</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_c_sparta_FORCED004" target="case_c_sparta_W_t0" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_c_sparta</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_c_sparta_FORCED005" target="case_c_sparta_Y_t5" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_c_sparta</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_c_sparta_CHAIN00" target="case_c_sparta_W_t0" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_c_sparta</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="case_c_sparta_CHAIN01" target="case_c_sparta_N003_t2" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">case_c_sparta</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="controls_W_t0" target="controls_N006_t1" id="0">
+      <data key="d5">PRECEDES</data>
+      <data key="d6">controls</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="controls_W_t0" target="controls_N006_t1" id="1">
+      <data key="d5">PRECEDES</data>
+      <data key="d6">controls</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="controls_W_t0" target="controls_N012_t2" id="0">
+      <data key="d5">CAUSE</data>
+      <data key="d6">controls</data>
+      <data key="d7">{"chain_type": "backbone"}</data>
+    </edge>
+    <edge source="controls_N006_t1" target="controls_N012_t2" id="0">
+      <data key="d5">PRECEDES</data>
+      <data key="d6">controls</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="controls_N006_t1" target="controls_N015_t2" id="0">
+      <data key="d5">PRECEDES</data>
+      <data key="d6">controls</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="controls_N012_t2" target="controls_N018_t3" id="0">
+      <data key="d5">PRECEDES</data>
+      <data key="d6">controls</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="controls_N012_t2" target="controls_N024_t4" id="0">
+      <data key="d5">CAUSE</data>
+      <data key="d6">controls</data>
+      <data key="d7">{"chain_type": "backbone"}</data>
+    </edge>
+    <edge source="controls_N015_t2" target="controls_N020_t3" id="0">
+      <data key="d5">PRECEDES</data>
+      <data key="d6">controls</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="controls_N018_t3" target="controls_N024_t4" id="0">
+      <data key="d5">PRECEDES</data>
+      <data key="d6">controls</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="controls_N020_t3" target="controls_N024_t4" id="0">
+      <data key="d5">PRECEDES</data>
+      <data key="d6">controls</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="controls_N024_t4" target="controls_Y_t5" id="0">
+      <data key="d5">PRECEDES</data>
+      <data key="d6">controls</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="controls_N024_t4" target="controls_Y_t5" id="1">
+      <data key="d5">CAUSE</data>
+      <data key="d6">controls</data>
+      <data key="d7">{"chain_type": "backbone"}</data>
+    </edge>
+    <edge source="controls_N024_t4" target="controls_Y_t5" id="2">
+      <data key="d5">PRECEDES</data>
+      <data key="d6">controls</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="controls_A0000" target="controls_N018_t3" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">controls</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="controls_A0001" target="controls_N018_t3" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">controls</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="controls_A0002" target="controls_N006_t1" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">controls</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="controls_A0003" target="controls_W_t0" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">controls</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="controls_A0004" target="controls_N024_t4" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">controls</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="controls_A0005" target="controls_Y_t5" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">controls</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="controls_A0006" target="controls_W_t0" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">controls</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="controls_A0007" target="controls_W_t0" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">controls</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="controls_A0008" target="controls_N006_t1" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">controls</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="controls_A0009" target="controls_N006_t1" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">controls</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="controls_A0010" target="controls_Y_t5" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">controls</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="controls_A0011" target="controls_N006_t1" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">controls</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="controls_A0012" target="controls_N012_t2" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">controls</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="controls_A0013" target="controls_N024_t4" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">controls</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="controls_A0014" target="controls_N024_t4" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">controls</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="controls_A0015" target="controls_N012_t2" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">controls</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="controls_A0016" target="controls_N018_t3" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">controls</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="controls_A0017" target="controls_Y_t5" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">controls</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="controls_FORCED000" target="controls_N012_t2" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">controls</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="controls_FORCED001" target="controls_N012_t2" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">controls</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="controls_FORCED002" target="controls_N012_t2" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">controls</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="controls_FORCED003" target="controls_N006_t1" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">controls</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="controls_FORCED004" target="controls_N006_t1" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">controls</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="controls_FORCED005" target="controls_W_t0" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">controls</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="controls_FORCED006" target="controls_W_t0" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">controls</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="controls_CHAIN00" target="controls_W_t0" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">controls</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="controls_CHAIN01" target="controls_N012_t2" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">controls</data>
+      <data key="d7">{}</data>
+    </edge>
+    <edge source="controls_CHAIN02" target="controls_N024_t4" id="0">
+      <data key="d5">SUPPORTED_BY</data>
+      <data key="d6">controls</data>
+      <data key="d7">{}</data>
+    </edge>
+  </graph>
+</graphml>

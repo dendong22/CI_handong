@@ -1,0 +1,45 @@
+src,dst,edge_type,case_id,attrs_json
+case_b_dotcom_W_t0,case_b_dotcom_N008_t1,PRECEDES,case_b_dotcom,{}
+case_b_dotcom_N008_t1,case_b_dotcom_N016_t2,PRECEDES,case_b_dotcom,{}
+case_b_dotcom_N016_t2,case_b_dotcom_N024_t3,PRECEDES,case_b_dotcom,{}
+case_b_dotcom_N024_t3,case_b_dotcom_N032_t4,PRECEDES,case_b_dotcom,{}
+case_b_dotcom_N032_t4,case_b_dotcom_Y_t5,PRECEDES,case_b_dotcom,{}
+case_b_dotcom_W_t0,case_b_dotcom_N016_t2,CAUSE,case_b_dotcom,"{""chain_type"": ""backbone""}"
+case_b_dotcom_N016_t2,case_b_dotcom_N032_t4,CAUSE,case_b_dotcom,"{""chain_type"": ""backbone""}"
+case_b_dotcom_N032_t4,case_b_dotcom_Y_t5,CAUSE,case_b_dotcom,"{""chain_type"": ""backbone""}"
+case_b_dotcom_A0000,case_b_dotcom_N016_t2,SUPPORTED_BY,case_b_dotcom,{}
+case_b_dotcom_A0001,case_b_dotcom_Y_t5,SUPPORTED_BY,case_b_dotcom,{}
+case_b_dotcom_A0002,case_b_dotcom_N024_t3,SUPPORTED_BY,case_b_dotcom,{}
+case_b_dotcom_A0003,case_b_dotcom_Y_t5,SUPPORTED_BY,case_b_dotcom,{}
+case_b_dotcom_A0004,case_b_dotcom_N032_t4,SUPPORTED_BY,case_b_dotcom,{}
+case_b_dotcom_A0005,case_b_dotcom_Y_t5,SUPPORTED_BY,case_b_dotcom,{}
+case_b_dotcom_A0006,case_b_dotcom_N032_t4,SUPPORTED_BY,case_b_dotcom,{}
+case_b_dotcom_A0007,case_b_dotcom_N032_t4,SUPPORTED_BY,case_b_dotcom,{}
+case_b_dotcom_A0008,case_b_dotcom_N016_t2,SUPPORTED_BY,case_b_dotcom,{}
+case_b_dotcom_A0009,case_b_dotcom_N032_t4,SUPPORTED_BY,case_b_dotcom,{}
+case_b_dotcom_A0010,case_b_dotcom_Y_t5,SUPPORTED_BY,case_b_dotcom,{}
+case_b_dotcom_A0011,case_b_dotcom_N032_t4,SUPPORTED_BY,case_b_dotcom,{}
+case_b_dotcom_A0012,case_b_dotcom_N032_t4,SUPPORTED_BY,case_b_dotcom,{}
+case_b_dotcom_A0013,case_b_dotcom_N016_t2,SUPPORTED_BY,case_b_dotcom,{}
+case_b_dotcom_A0014,case_b_dotcom_W_t0,SUPPORTED_BY,case_b_dotcom,{}
+case_b_dotcom_A0015,case_b_dotcom_Y_t5,SUPPORTED_BY,case_b_dotcom,{}
+case_b_dotcom_A0016,case_b_dotcom_W_t0,SUPPORTED_BY,case_b_dotcom,{}
+case_b_dotcom_A0017,case_b_dotcom_W_t0,SUPPORTED_BY,case_b_dotcom,{}
+case_b_dotcom_A0018,case_b_dotcom_W_t0,SUPPORTED_BY,case_b_dotcom,{}
+case_b_dotcom_A0019,case_b_dotcom_W_t0,SUPPORTED_BY,case_b_dotcom,{}
+case_b_dotcom_A0020,case_b_dotcom_N032_t4,SUPPORTED_BY,case_b_dotcom,{}
+case_b_dotcom_A0021,case_b_dotcom_W_t0,SUPPORTED_BY,case_b_dotcom,{}
+case_b_dotcom_A0022,case_b_dotcom_N016_t2,SUPPORTED_BY,case_b_dotcom,{}
+case_b_dotcom_A0023,case_b_dotcom_N008_t1,SUPPORTED_BY,case_b_dotcom,{}
+case_b_dotcom_FORCED000,case_b_dotcom_N032_t4,SUPPORTED_BY,case_b_dotcom,{}
+case_b_dotcom_FORCED001,case_b_dotcom_N008_t1,SUPPORTED_BY,case_b_dotcom,{}
+case_b_dotcom_FORCED002,case_b_dotcom_Y_t5,SUPPORTED_BY,case_b_dotcom,{}
+case_b_dotcom_FORCED003,case_b_dotcom_N032_t4,SUPPORTED_BY,case_b_dotcom,{}
+case_b_dotcom_FORCED004,case_b_dotcom_N016_t2,SUPPORTED_BY,case_b_dotcom,{}
+case_b_dotcom_FORCED005,case_b_dotcom_N008_t1,SUPPORTED_BY,case_b_dotcom,{}
+case_b_dotcom_FORCED006,case_b_dotcom_W_t0,SUPPORTED_BY,case_b_dotcom,{}
+case_b_dotcom_FORCED007,case_b_dotcom_Y_t5,SUPPORTED_BY,case_b_dotcom,{}
+case_b_dotcom_FORCED008,case_b_dotcom_N024_t3,SUPPORTED_BY,case_b_dotcom,{}
+case_b_dotcom_CHAIN00,case_b_dotcom_W_t0,SUPPORTED_BY,case_b_dotcom,{}
+case_b_dotcom_CHAIN01,case_b_dotcom_N016_t2,SUPPORTED_BY,case_b_dotcom,{}
+case_b_dotcom_CHAIN02,case_b_dotcom_N032_t4,SUPPORTED_BY,case_b_dotcom,{}

@@ -1,0 +1,37 @@
+# params.yaml — 모든 수치 파라미터의 유일한 외부 정의처
+# config.py가 이 파일을 로드함. 다른 모듈은 이 파일을 직접 참조하지 않는다.
+
+seed_dgp: 42
+seed_proxy: 3
+n_samples: 5000
+t_horizon: 5
+n_periods: 6
+
+# DGP 구조 파라미터 (sim_frontdoor.py에서 이전)
+p_u1: 0.5
+p_w1_given_u:
+  "0": 0.70
+  "1": 0.30
+
+# P(M | W): M ∈ {0=Low, 1=Mid, 2=High}
+p_m_given_w:
+  "0": [0.65, 0.25, 0.10]
+  "1": [0.10, 0.30, 0.60]
+
+# P(fragile | M, U): key = "m,u"
+p_fragile:
+  "0,0": 0.15
+  "1,0": 0.45
+  "2,0": 0.80
+  "0,1": 0.05
+  "1,1": 0.20
+  "2,1": 0.50
+
+p_c: 0.5
+
+# 엔트로피 동역학: E_t = alpha * W + beta * E_{t-1}
+alpha: 0.35
+beta: 0.75
+
+# 사례 C 반사실 기본 t_k
+t_k_default: 2

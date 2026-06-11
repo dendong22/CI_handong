@@ -1,0 +1,264 @@
+node_id,node_type,label,time_layer,case_id,attrs_json
+case_a_korea1997_W_t0,Event,외자 유입 급증(chaebol 확장),t0,case_a_korea1997,"{""y_value"": 1}"
+case_a_korea1997_N001_t0,Concept,담론분열심화,t0,case_a_korea1997,"{""y_value"": 1}"
+case_a_korea1997_N002_t0,Organization,감독기관약화,t0,case_a_korea1997,"{""y_value"": 1}"
+case_a_korea1997_N003_t0,Event,레버리지확대,t0,case_a_korea1997,"{""y_value"": 1}"
+case_a_korea1997_N004_t0,Concept,엘리트파벌형성,t0,case_a_korea1997,"{""y_value"": 1}"
+case_a_korea1997_N005_t0,Concept,정보비대칭증가,t0,case_a_korea1997,"{""y_value"": 1}"
+case_a_korea1997_N006_t0,Concept,정책대응지연,t0,case_a_korea1997,"{""y_value"": 1}"
+case_a_korea1997_N007_t0,Concept,외부압력,t0,case_a_korea1997,"{""y_value"": 1}"
+case_a_korea1997_N008_t0,Organization,신호무시,t0,case_a_korea1997,"{""y_value"": 1}"
+case_a_korea1997_N009_t1,Event,제도이완,t1,case_a_korea1997,"{""y_value"": 1}"
+case_a_korea1997_N010_t1,Concept,과잉투자,t1,case_a_korea1997,"{""y_value"": 1}"
+case_a_korea1997_N011_t1,Concept,거버넌스공백,t1,case_a_korea1997,"{""y_value"": 1}"
+case_a_korea1997_N012_t1,Organization,엔트로피지표상승,t1,case_a_korea1997,"{""y_value"": 1}"
+case_a_korea1997_N013_t1,Event,담론분열심화,t1,case_a_korea1997,"{""y_value"": 1}"
+case_a_korea1997_N014_t1,Organization,감독기관약화,t1,case_a_korea1997,"{""y_value"": 1}"
+case_a_korea1997_N015_t1,Event,레버리지확대,t1,case_a_korea1997,"{""y_value"": 1}"
+case_a_korea1997_N016_t1,Concept,엘리트파벌형성,t1,case_a_korea1997,"{""y_value"": 1}"
+case_a_korea1997_N017_t1,Event,정보비대칭증가,t1,case_a_korea1997,"{""y_value"": 1}"
+case_a_korea1997_N018_t2,Concept,정책대응지연,t2,case_a_korea1997,"{""y_value"": 1}"
+case_a_korea1997_N019_t2,Event,외부압력,t2,case_a_korea1997,"{""y_value"": 1}"
+case_a_korea1997_N020_t2,Concept,신호무시,t2,case_a_korea1997,"{""y_value"": 1}"
+case_a_korea1997_N021_t2,Organization,제도이완,t2,case_a_korea1997,"{""y_value"": 1}"
+case_a_korea1997_N022_t2,Concept,과잉투자,t2,case_a_korea1997,"{""y_value"": 1}"
+case_a_korea1997_N023_t2,Event,거버넌스공백,t2,case_a_korea1997,"{""y_value"": 1}"
+case_a_korea1997_N024_t2,Concept,엔트로피지표상승,t2,case_a_korea1997,"{""y_value"": 1}"
+case_a_korea1997_N025_t2,Concept,담론분열심화,t2,case_a_korea1997,"{""y_value"": 1}"
+case_a_korea1997_N026_t2,Concept,감독기관약화,t2,case_a_korea1997,"{""y_value"": 1}"
+case_a_korea1997_N027_t3,Organization,레버리지확대,t3,case_a_korea1997,"{""y_value"": 1}"
+case_a_korea1997_N028_t3,Organization,엘리트파벌형성,t3,case_a_korea1997,"{""y_value"": 1}"
+case_a_korea1997_N029_t3,Event,정보비대칭증가,t3,case_a_korea1997,"{""y_value"": 1}"
+case_a_korea1997_N030_t3,Organization,정책대응지연,t3,case_a_korea1997,"{""y_value"": 1}"
+case_a_korea1997_N031_t3,Organization,외부압력,t3,case_a_korea1997,"{""y_value"": 1}"
+case_a_korea1997_N032_t3,Event,신호무시,t3,case_a_korea1997,"{""y_value"": 1}"
+case_a_korea1997_N033_t3,Event,제도이완,t3,case_a_korea1997,"{""y_value"": 1}"
+case_a_korea1997_N034_t3,Organization,과잉투자,t3,case_a_korea1997,"{""y_value"": 1}"
+case_a_korea1997_N035_t3,Concept,거버넌스공백,t3,case_a_korea1997,"{""y_value"": 1}"
+case_a_korea1997_N036_t4,Event,엔트로피지표상승,t4,case_a_korea1997,"{""y_value"": 1}"
+case_a_korea1997_N037_t4,Concept,담론분열심화,t4,case_a_korea1997,"{""y_value"": 1}"
+case_a_korea1997_N038_t4,Organization,감독기관약화,t4,case_a_korea1997,"{""y_value"": 1}"
+case_a_korea1997_N039_t4,Event,레버리지확대,t4,case_a_korea1997,"{""y_value"": 1}"
+case_a_korea1997_N040_t4,Concept,엘리트파벌형성,t4,case_a_korea1997,"{""y_value"": 1}"
+case_a_korea1997_N041_t4,Concept,정보비대칭증가,t4,case_a_korea1997,"{""y_value"": 1}"
+case_a_korea1997_N042_t4,Event,정책대응지연,t4,case_a_korea1997,"{""y_value"": 1}"
+case_a_korea1997_N043_t4,Concept,외부압력,t4,case_a_korea1997,"{""y_value"": 1}"
+case_a_korea1997_N044_t4,Event,신호무시,t4,case_a_korea1997,"{""y_value"": 1}"
+case_a_korea1997_Y_t5,Event,IMF 구제금융 신청,t5,case_a_korea1997,"{""y_value"": 1}"
+case_a_korea1997_N046_t5,Organization,과잉투자,t5,case_a_korea1997,"{""y_value"": 1}"
+case_a_korea1997_N047_t5,Organization,거버넌스공백,t5,case_a_korea1997,"{""y_value"": 1}"
+case_a_korea1997_N048_t5,Organization,엔트로피지표상승,t5,case_a_korea1997,"{""y_value"": 1}"
+case_a_korea1997_N049_t5,Event,담론분열심화,t5,case_a_korea1997,"{""y_value"": 1}"
+case_a_korea1997_N050_t5,Concept,감독기관약화,t5,case_a_korea1997,"{""y_value"": 1}"
+case_a_korea1997_N051_t5,Event,레버리지확대,t5,case_a_korea1997,"{""y_value"": 1}"
+case_a_korea1997_N052_t5,Organization,엘리트파벌형성,t5,case_a_korea1997,"{""y_value"": 1}"
+case_a_korea1997_N053_t5,Organization,정보비대칭증가,t5,case_a_korea1997,"{""y_value"": 1}"
+case_a_korea1997_A0000,,,,,{}
+case_a_korea1997_A0001,,,,,{}
+case_a_korea1997_A0002,,,,,{}
+case_a_korea1997_A0003,,,,,{}
+case_a_korea1997_A0004,,,,,{}
+case_a_korea1997_A0005,,,,,{}
+case_a_korea1997_A0006,,,,,{}
+case_a_korea1997_A0007,,,,,{}
+case_a_korea1997_A0008,,,,,{}
+case_a_korea1997_A0009,,,,,{}
+case_a_korea1997_A0010,,,,,{}
+case_a_korea1997_A0011,,,,,{}
+case_a_korea1997_A0012,,,,,{}
+case_a_korea1997_A0013,,,,,{}
+case_a_korea1997_A0014,,,,,{}
+case_a_korea1997_A0015,,,,,{}
+case_a_korea1997_A0016,,,,,{}
+case_a_korea1997_A0017,,,,,{}
+case_a_korea1997_A0018,,,,,{}
+case_a_korea1997_A0019,,,,,{}
+case_a_korea1997_A0020,,,,,{}
+case_a_korea1997_A0021,,,,,{}
+case_a_korea1997_A0022,,,,,{}
+case_a_korea1997_A0023,,,,,{}
+case_a_korea1997_A0024,,,,,{}
+case_a_korea1997_A0025,,,,,{}
+case_a_korea1997_A0026,,,,,{}
+case_a_korea1997_FORCED000,,,,,{}
+case_a_korea1997_FORCED001,,,,,{}
+case_a_korea1997_FORCED002,,,,,{}
+case_a_korea1997_FORCED003,,,,,{}
+case_a_korea1997_FORCED004,,,,,{}
+case_a_korea1997_FORCED005,,,,,{}
+case_a_korea1997_FORCED006,,,,,{}
+case_a_korea1997_FORCED007,,,,,{}
+case_a_korea1997_FORCED008,,,,,{}
+case_a_korea1997_FORCED009,,,,,{}
+case_a_korea1997_CHAIN00,,,,,{}
+case_a_korea1997_CHAIN01,,,,,{}
+case_a_korea1997_CHAIN02,,,,,{}
+case_b_dotcom_W_t0,Event,VC/IPO 자금 폭증,t0,case_b_dotcom,"{""y_value"": 1}"
+case_b_dotcom_N001_t0,Event,담론분열심화,t0,case_b_dotcom,"{""y_value"": 1}"
+case_b_dotcom_N002_t0,Organization,감독기관약화,t0,case_b_dotcom,"{""y_value"": 1}"
+case_b_dotcom_N003_t0,Event,레버리지확대,t0,case_b_dotcom,"{""y_value"": 1}"
+case_b_dotcom_N004_t0,Concept,엘리트파벌형성,t0,case_b_dotcom,"{""y_value"": 1}"
+case_b_dotcom_N005_t0,Concept,정보비대칭증가,t0,case_b_dotcom,"{""y_value"": 1}"
+case_b_dotcom_N006_t0,Event,정책대응지연,t0,case_b_dotcom,"{""y_value"": 1}"
+case_b_dotcom_N007_t0,Concept,외부압력,t0,case_b_dotcom,"{""y_value"": 1}"
+case_b_dotcom_N008_t1,Organization,신호무시,t1,case_b_dotcom,"{""y_value"": 1}"
+case_b_dotcom_N009_t1,Concept,제도이완,t1,case_b_dotcom,"{""y_value"": 1}"
+case_b_dotcom_N010_t1,Organization,과잉투자,t1,case_b_dotcom,"{""y_value"": 1}"
+case_b_dotcom_N011_t1,Organization,거버넌스공백,t1,case_b_dotcom,"{""y_value"": 1}"
+case_b_dotcom_N012_t1,Event,엔트로피지표상승,t1,case_b_dotcom,"{""y_value"": 1}"
+case_b_dotcom_N013_t1,Organization,담론분열심화,t1,case_b_dotcom,"{""y_value"": 1}"
+case_b_dotcom_N014_t1,Event,감독기관약화,t1,case_b_dotcom,"{""y_value"": 1}"
+case_b_dotcom_N015_t1,Event,레버리지확대,t1,case_b_dotcom,"{""y_value"": 1}"
+case_b_dotcom_N016_t2,Event,엘리트파벌형성,t2,case_b_dotcom,"{""y_value"": 1}"
+case_b_dotcom_N017_t2,Organization,정보비대칭증가,t2,case_b_dotcom,"{""y_value"": 1}"
+case_b_dotcom_N018_t2,Organization,정책대응지연,t2,case_b_dotcom,"{""y_value"": 1}"
+case_b_dotcom_N019_t2,Event,외부압력,t2,case_b_dotcom,"{""y_value"": 1}"
+case_b_dotcom_N020_t2,Event,신호무시,t2,case_b_dotcom,"{""y_value"": 1}"
+case_b_dotcom_N021_t2,Event,제도이완,t2,case_b_dotcom,"{""y_value"": 1}"
+case_b_dotcom_N022_t2,Organization,과잉투자,t2,case_b_dotcom,"{""y_value"": 1}"
+case_b_dotcom_N023_t2,Event,거버넌스공백,t2,case_b_dotcom,"{""y_value"": 1}"
+case_b_dotcom_N024_t3,Concept,엔트로피지표상승,t3,case_b_dotcom,"{""y_value"": 1}"
+case_b_dotcom_N025_t3,Event,담론분열심화,t3,case_b_dotcom,"{""y_value"": 1}"
+case_b_dotcom_N026_t3,Event,감독기관약화,t3,case_b_dotcom,"{""y_value"": 1}"
+case_b_dotcom_N027_t3,Event,레버리지확대,t3,case_b_dotcom,"{""y_value"": 1}"
+case_b_dotcom_N028_t3,Organization,엘리트파벌형성,t3,case_b_dotcom,"{""y_value"": 1}"
+case_b_dotcom_N029_t3,Organization,정보비대칭증가,t3,case_b_dotcom,"{""y_value"": 1}"
+case_b_dotcom_N030_t3,Concept,정책대응지연,t3,case_b_dotcom,"{""y_value"": 1}"
+case_b_dotcom_N031_t3,Event,외부압력,t3,case_b_dotcom,"{""y_value"": 1}"
+case_b_dotcom_N032_t4,Event,신호무시,t4,case_b_dotcom,"{""y_value"": 1}"
+case_b_dotcom_N033_t4,Concept,제도이완,t4,case_b_dotcom,"{""y_value"": 1}"
+case_b_dotcom_N034_t4,Concept,과잉투자,t4,case_b_dotcom,"{""y_value"": 1}"
+case_b_dotcom_N035_t4,Organization,거버넌스공백,t4,case_b_dotcom,"{""y_value"": 1}"
+case_b_dotcom_N036_t4,Concept,엔트로피지표상승,t4,case_b_dotcom,"{""y_value"": 1}"
+case_b_dotcom_N037_t4,Organization,담론분열심화,t4,case_b_dotcom,"{""y_value"": 1}"
+case_b_dotcom_N038_t4,Concept,감독기관약화,t4,case_b_dotcom,"{""y_value"": 1}"
+case_b_dotcom_N039_t4,Concept,레버리지확대,t4,case_b_dotcom,"{""y_value"": 1}"
+case_b_dotcom_Y_t5,Event,NASDAQ 80% 하락 및 기업 파산,t5,case_b_dotcom,"{""y_value"": 1}"
+case_b_dotcom_N041_t5,Organization,정보비대칭증가,t5,case_b_dotcom,"{""y_value"": 1}"
+case_b_dotcom_N042_t5,Event,정책대응지연,t5,case_b_dotcom,"{""y_value"": 1}"
+case_b_dotcom_N043_t5,Event,외부압력,t5,case_b_dotcom,"{""y_value"": 1}"
+case_b_dotcom_N044_t5,Concept,신호무시,t5,case_b_dotcom,"{""y_value"": 1}"
+case_b_dotcom_N045_t5,Event,제도이완,t5,case_b_dotcom,"{""y_value"": 1}"
+case_b_dotcom_N046_t5,Event,과잉투자,t5,case_b_dotcom,"{""y_value"": 1}"
+case_b_dotcom_N047_t5,Organization,거버넌스공백,t5,case_b_dotcom,"{""y_value"": 1}"
+case_b_dotcom_A0000,,,,,{}
+case_b_dotcom_A0001,,,,,{}
+case_b_dotcom_A0002,,,,,{}
+case_b_dotcom_A0003,,,,,{}
+case_b_dotcom_A0004,,,,,{}
+case_b_dotcom_A0005,,,,,{}
+case_b_dotcom_A0006,,,,,{}
+case_b_dotcom_A0007,,,,,{}
+case_b_dotcom_A0008,,,,,{}
+case_b_dotcom_A0009,,,,,{}
+case_b_dotcom_A0010,,,,,{}
+case_b_dotcom_A0011,,,,,{}
+case_b_dotcom_A0012,,,,,{}
+case_b_dotcom_A0013,,,,,{}
+case_b_dotcom_A0014,,,,,{}
+case_b_dotcom_A0015,,,,,{}
+case_b_dotcom_A0016,,,,,{}
+case_b_dotcom_A0017,,,,,{}
+case_b_dotcom_A0018,,,,,{}
+case_b_dotcom_A0019,,,,,{}
+case_b_dotcom_A0020,,,,,{}
+case_b_dotcom_A0021,,,,,{}
+case_b_dotcom_A0022,,,,,{}
+case_b_dotcom_A0023,,,,,{}
+case_b_dotcom_FORCED000,,,,,{}
+case_b_dotcom_FORCED001,,,,,{}
+case_b_dotcom_FORCED002,,,,,{}
+case_b_dotcom_FORCED003,,,,,{}
+case_b_dotcom_FORCED004,,,,,{}
+case_b_dotcom_FORCED005,,,,,{}
+case_b_dotcom_FORCED006,,,,,{}
+case_b_dotcom_FORCED007,,,,,{}
+case_b_dotcom_FORCED008,,,,,{}
+case_b_dotcom_CHAIN00,,,,,{}
+case_b_dotcom_CHAIN01,,,,,{}
+case_b_dotcom_CHAIN02,,,,,{}
+case_c_sparta_W_t0,Event,헬로트 노동 전유,t0,case_c_sparta,"{""y_value"": 1}"
+case_c_sparta_N001_t0,Concept,담론분열심화,t0,case_c_sparta,"{""y_value"": 1}"
+case_c_sparta_N002_t0,Organization,감독기관약화,t0,case_c_sparta,"{""y_value"": 1}"
+case_c_sparta_N003_t2,Concept,레버리지확대,t2,case_c_sparta,"{""y_value"": 1}"
+case_c_sparta_Y_t5,Event,레욱트라 전투 패배,t5,case_c_sparta,"{""y_value"": 1}"
+case_c_sparta_N005_t5,Organization,정보비대칭증가,t5,case_c_sparta,"{""y_value"": 1}"
+case_c_sparta_N006_t5,Event,정책대응지연,t5,case_c_sparta,"{""y_value"": 1}"
+case_c_sparta_A0001,,,,,{}
+case_c_sparta_A0004,,,,,{}
+case_c_sparta_A0005,,,,,{}
+case_c_sparta_A0009,,,,,{}
+case_c_sparta_A0011,,,,,{}
+case_c_sparta_A0012,,,,,{}
+case_c_sparta_A0013,,,,,{}
+case_c_sparta_A0014,,,,,{}
+case_c_sparta_FORCED000,,,,,{}
+case_c_sparta_FORCED003,,,,,{}
+case_c_sparta_FORCED004,,,,,{}
+case_c_sparta_FORCED005,,,,,{}
+case_c_sparta_CHAIN00,,,,,{}
+case_c_sparta_CHAIN01,,,,,{}
+controls_W_t0,Event,외자 유입(대만 1997),t0,controls,"{""y_value"": 0}"
+controls_N001_t0,Event,담론분열심화,t0,controls,"{""y_value"": 0}"
+controls_N002_t0,Concept,감독기관약화,t0,controls,"{""y_value"": 0}"
+controls_N003_t0,Event,레버리지확대,t0,controls,"{""y_value"": 0}"
+controls_N004_t0,Event,엘리트파벌형성,t0,controls,"{""y_value"": 0}"
+controls_N005_t0,Organization,정보비대칭증가,t0,controls,"{""y_value"": 0}"
+controls_N006_t1,Event,정책대응지연,t1,controls,"{""y_value"": 0}"
+controls_N007_t1,Concept,외부압력,t1,controls,"{""y_value"": 0}"
+controls_N008_t1,Concept,신호무시,t1,controls,"{""y_value"": 0}"
+controls_N009_t1,Organization,제도이완,t1,controls,"{""y_value"": 0}"
+controls_N010_t1,Organization,과잉투자,t1,controls,"{""y_value"": 0}"
+controls_N011_t1,Event,거버넌스공백,t1,controls,"{""y_value"": 0}"
+controls_N012_t2,Organization,엔트로피지표상승,t2,controls,"{""y_value"": 0}"
+controls_N013_t2,Concept,담론분열심화,t2,controls,"{""y_value"": 0}"
+controls_N014_t2,Concept,감독기관약화,t2,controls,"{""y_value"": 0}"
+controls_N015_t2,Event,레버리지확대,t2,controls,"{""y_value"": 0}"
+controls_N016_t2,Organization,엘리트파벌형성,t2,controls,"{""y_value"": 0}"
+controls_N017_t2,Event,정보비대칭증가,t2,controls,"{""y_value"": 0}"
+controls_N018_t3,Concept,정책대응지연,t3,controls,"{""y_value"": 0}"
+controls_N019_t3,Concept,외부압력,t3,controls,"{""y_value"": 0}"
+controls_N020_t3,Event,신호무시,t3,controls,"{""y_value"": 0}"
+controls_N021_t3,Concept,제도이완,t3,controls,"{""y_value"": 0}"
+controls_N022_t3,Organization,과잉투자,t3,controls,"{""y_value"": 0}"
+controls_N023_t3,Concept,거버넌스공백,t3,controls,"{""y_value"": 0}"
+controls_N024_t4,Event,엔트로피지표상승,t4,controls,"{""y_value"": 0}"
+controls_N025_t4,Event,담론분열심화,t4,controls,"{""y_value"": 0}"
+controls_N026_t4,Event,감독기관약화,t4,controls,"{""y_value"": 0}"
+controls_N027_t4,Concept,레버리지확대,t4,controls,"{""y_value"": 0}"
+controls_N028_t4,Organization,엘리트파벌형성,t4,controls,"{""y_value"": 0}"
+controls_N029_t4,Organization,정보비대칭증가,t4,controls,"{""y_value"": 0}"
+controls_Y_t5,Event,안정유지,t5,controls,"{""y_value"": 0}"
+controls_N031_t5,Organization,외부압력,t5,controls,"{""y_value"": 0}"
+controls_N032_t5,Organization,신호무시,t5,controls,"{""y_value"": 0}"
+controls_N033_t5,Event,제도이완,t5,controls,"{""y_value"": 0}"
+controls_N034_t5,Organization,과잉투자,t5,controls,"{""y_value"": 0}"
+controls_N035_t5,Organization,거버넌스공백,t5,controls,"{""y_value"": 0}"
+controls_A0000,,,,,{}
+controls_A0001,,,,,{}
+controls_A0002,,,,,{}
+controls_A0003,,,,,{}
+controls_A0004,,,,,{}
+controls_A0005,,,,,{}
+controls_A0006,,,,,{}
+controls_A0007,,,,,{}
+controls_A0008,,,,,{}
+controls_A0009,,,,,{}
+controls_A0010,,,,,{}
+controls_A0011,,,,,{}
+controls_A0012,,,,,{}
+controls_A0013,,,,,{}
+controls_A0014,,,,,{}
+controls_A0015,,,,,{}
+controls_A0016,,,,,{}
+controls_A0017,,,,,{}
+controls_FORCED000,,,,,{}
+controls_FORCED001,,,,,{}
+controls_FORCED002,,,,,{}
+controls_FORCED003,,,,,{}
+controls_FORCED004,,,,,{}
+controls_FORCED005,,,,,{}
+controls_FORCED006,,,,,{}
+controls_CHAIN00,,,,,{}
+controls_CHAIN01,,,,,{}
+controls_CHAIN02,,,,,{}

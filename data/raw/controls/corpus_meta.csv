@@ -1,0 +1,15 @@
+source_id,title,time_layer,case_id,doc_type
+controls_SRC000,[더미] 대조 사례 (Y=0) controls_SRC000,t3,controls,speech
+controls_SRC001,[더미] 대조 사례 (Y=0) controls_SRC001,t0,controls,news
+controls_SRC002,[더미] 대조 사례 (Y=0) controls_SRC002,t0,controls,report
+controls_SRC003,[더미] 대조 사례 (Y=0) controls_SRC003,t1,controls,report
+controls_SRC004,[더미] 대조 사례 (Y=0) controls_SRC004,t2,controls,news
+controls_SRC005,[더미] 대조 사례 (Y=0) controls_SRC005,t2,controls,report
+controls_SRC_FORCED00,[더미] 대조 사례 (Y=0) controls_SRC_FORCED00,t2,controls,news
+controls_SRC_FORCED01,[더미] 대조 사례 (Y=0) controls_SRC_FORCED01,t2,controls,speech
+controls_SRC_FORCED02,[더미] 대조 사례 (Y=0) controls_SRC_FORCED02,t2,controls,report
+controls_SRC_FORCED03,[더미] 대조 사례 (Y=0) controls_SRC_FORCED03,t1,controls,report
+controls_SRC_FORCED04,[더미] 대조 사례 (Y=0) controls_SRC_FORCED04,t1,controls,news
+controls_SRC_FORCED05,[더미] 대조 사례 (Y=0) controls_SRC_FORCED05,t0,controls,news
+controls_SRC_FORCED06,[더미] 대조 사례 (Y=0) controls_SRC_FORCED06,t0,controls,report
+controls_SRC_CHAIN,[더미] 대조 사례 (Y=0) controls_SRC_CHAIN,t0,controls,speech

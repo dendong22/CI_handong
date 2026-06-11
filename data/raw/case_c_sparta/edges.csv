@@ -1,0 +1,17 @@
+src,dst,edge_type,case_id,attrs_json
+case_c_sparta_W_t0,case_c_sparta_N003_t2,CAUSE,case_c_sparta,"{""chain_type"": ""backbone""}"
+case_c_sparta_N003_t2,case_c_sparta_Y_t5,CAUSE,case_c_sparta,"{""chain_type"": ""backbone""}"
+case_c_sparta_A0001,case_c_sparta_W_t0,SUPPORTED_BY,case_c_sparta,{}
+case_c_sparta_A0004,case_c_sparta_N003_t2,SUPPORTED_BY,case_c_sparta,{}
+case_c_sparta_A0005,case_c_sparta_W_t0,SUPPORTED_BY,case_c_sparta,{}
+case_c_sparta_A0009,case_c_sparta_W_t0,SUPPORTED_BY,case_c_sparta,{}
+case_c_sparta_A0011,case_c_sparta_N003_t2,SUPPORTED_BY,case_c_sparta,{}
+case_c_sparta_A0012,case_c_sparta_W_t0,SUPPORTED_BY,case_c_sparta,{}
+case_c_sparta_A0013,case_c_sparta_Y_t5,SUPPORTED_BY,case_c_sparta,{}
+case_c_sparta_A0014,case_c_sparta_N003_t2,SUPPORTED_BY,case_c_sparta,{}
+case_c_sparta_FORCED000,case_c_sparta_N003_t2,SUPPORTED_BY,case_c_sparta,{}
+case_c_sparta_FORCED003,case_c_sparta_N003_t2,SUPPORTED_BY,case_c_sparta,{}
+case_c_sparta_FORCED004,case_c_sparta_W_t0,SUPPORTED_BY,case_c_sparta,{}
+case_c_sparta_FORCED005,case_c_sparta_Y_t5,SUPPORTED_BY,case_c_sparta,{}
+case_c_sparta_CHAIN00,case_c_sparta_W_t0,SUPPORTED_BY,case_c_sparta,{}
+case_c_sparta_CHAIN01,case_c_sparta_N003_t2,SUPPORTED_BY,case_c_sparta,{}
